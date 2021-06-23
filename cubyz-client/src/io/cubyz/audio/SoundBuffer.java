@@ -1,5 +1,6 @@
 package io.cubyz.audio;
 
+
 // ... Some imports here
 import static org.lwjgl.openal.AL10.*;
 import static org.lwjgl.stb.STBVorbis.*;
